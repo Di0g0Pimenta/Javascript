@@ -1,2 +1,3 @@
 # Javascript
- Estudos de Javascript e projetos
+ Primeiro Repositório no GitHub.
+ Estudos de Javascript e Projetos.
